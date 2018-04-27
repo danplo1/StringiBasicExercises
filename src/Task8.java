@@ -16,7 +16,7 @@ public class Task8 {
         int length = word.length();
         System.out.println("Przedostatnia litera to: " + word.charAt(length-2) + " ,ostatnia litera to: "
         + word.charAt(length-1));
-        //System.out.println(word.charAt(0));//
+
 
     }
 
